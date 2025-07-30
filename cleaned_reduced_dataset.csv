@@ -1,0 +1,789 @@
+Element,Radionuclide,Common name,Latin name,Compartment,CR,C_plant,C_soil,Country,Site,K-G class,Contamination,Experiment,Soil depth
+U,U-238,Cassava,Manihot esculenta,Roots,1.00E-01,4.10E-01,4.20E+00,Ghana,Tano basin (CS1),Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,6.00E-02,5.30E-01,9.00E+00,Ghana,Tano basin (CS2),Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,1.20E-01,6.40E-01,5.20E+00,Ghana,Tano basin (CS3),Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,1.00E-01,8.90E-01,8.90E+00,Ghana,Tano basin (CS4),Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,1.00E-01,1.00E+00,1.10E+01,Ghana,Tano basin (CS5),Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,1.00E-01,6.20E-01,6.20E+00,Ghana,Tano basin (CS1),Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,2.00E-02,4.90E-01,3.20E+01,Ghana,Tano basin (CS2),Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,8.00E-02,5.70E-01,7.40E+00,Ghana,Tano basin (CS3),Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,1.00E-02,1.60E-01,1.70E+01,Ghana,Tano basin (CS4),Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,4.00E-02,7.50E-01,1.80E+01,Ghana,Tano basin (CS5),Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,2.80E-01,3.70E+01,1.30E+02,Ghana,Tano basin (CS1),Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,1.20E-01,4.10E+01,3.40E+02,Ghana,Tano basin (CS2),Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,4.00E-02,8.50E+00,1.90E+02,Ghana,Tano basin (CS3),Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,8.00E-02,2.70E+01,3.50E+02,Ghana,Tano basin (CS4),Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,7.00E-02,1.40E+01,2.10E+02,Ghana,Tano basin (CS5),Am,N,F,0-20
+Ra,Ra-226,Rice,Oryza sativa,Grains,1.70E-01,1.50E+00,9.10E+00,Malaysia,"Sungai Besar, Selangor State",Af,N,F,0-5
+Th,Th-232,Rice,Oryza sativa,Grains,1.80E-01,3.60E+00,2.10E+01,Malaysia,"Sungai Besar, Selangor State",Af,N,F,0-5
+K,K-40,Rice,Oryza sativa,Grains,5.20E-01,6.00E+01,1.10E+02,Malaysia,"Sungai Besar, Selangor State",Af,N,F,0-5
+Ra,Ra-226,Rice,Oryza sativa,Grains,3.20E-01,2.80E+00,8.90E+00,Malaysia,"Kampung Permatang Tok Labu, Penang State",Af,N,F,0-5
+Th,Th-232,Rice,Oryza sativa,Grains,4.70E-01,7.50E+00,1.60E+01,Malaysia,"Kampung Permatang Tok Labu, Penang State",Af,N,F,0-5
+K,K-40,Rice,Oryza sativa,Grains,1.00E+00,8.90E+01,9.00E+01,Malaysia,"Kampung Permatang Tok Labu, Penang State",Af,N,F,0-5
+Ra,Ra-226,Rice,Oryza sativa,Grains,3.20E-01,2.30E+00,7.20E+00,Malaysia,"Kampung Sakan, Kedah State",Am,N,F,0-5
+Th,Th-232,Rice,Oryza sativa,Grains,4.80E-01,5.50E+00,1.20E+01,Malaysia,"Kampung Sakan, Kedah State",Am,N,F,0-5
+K,K-40,Rice,Oryza sativa,Grains,1.20E+00,9.20E+01,7.70E+01,Malaysia,"Kampung Sakan, Kedah State",Am,N,F,0-5
+Ra,Ra-226,"Cassava, tapioca",Manihot esculenta,Roots,1.10E+00,1.30E+02,1.10E+02,Malaysia,"Puchong, Selangor State",Af,N,F,0-20
+Th,Th-232,"Cassava, tapioca",Manihot esculenta,Roots,3.00E-01,3.00E+00,8.50E+00,Malaysia,"Puchong, Selangor State",Af,N,F,0-20
+K,K-40,"Cassava, tapioca",Manihot esculenta,Roots,1.10E+00,8.40E+02,7.50E+02,Malaysia,"Puchong, Selangor State",Af,N,F,0-20
+Y,Y-88,"Cassava, tapioca",Manihot esculenta,Roots,2.50E-01,7.00E+00,2.90E+01,Malaysia,"Puchong, Selangor State",Af,N,F,0-20
+Ra,Ra-226,Sweet potato,Ipomoea batatas,Tubers,5.80E-01,6.70E+01,1.10E+02,Malaysia,"Puchong, Selangor State",Af,N,F,0-20
+Th,Th-232,Sweet potato,Ipomoea batatas,Tubers,9.20E-01,8.00E+00,8.50E+00,Malaysia,"Puchong, Selangor State",Af,N,F,0-20
+K,K-40,Sweet potato,Ipomoea batatas,Tubers,3.30E+00,2.50E+03,7.50E+02,Malaysia,"Puchong, Selangor State",Af,N,F,0-20
+Ra,Ra-226,"Cassava, tapioca",Manihot esculenta,Roots,1.00E+00,9.60E+01,9.10E+01,Malaysia,"Chemor, Perak State",Af,N,F,0-20
+Th,Th-232,"Cassava, tapioca",Manihot esculenta,Roots,2.80E-01,1.70E+01,5.10E+01,Malaysia,"Chemor, Perak State",Af,N,F,0-20
+K,K-40,"Cassava, tapioca",Manihot esculenta,Roots,2.00E+00,8.40E+02,4.10E+02,Malaysia,"Chemor, Perak State",Af,N,F,0-20
+Ra,Ra-226,Sweet potato,Ipomoea batatas,Tubers,8.20E-01,7.60E+01,9.10E+01,Malaysia,"Chemor, Perak State",Af,N,F,0-20
+Th,Th-232,Sweet potato,Ipomoea batatas,Tubers,3.30E-01,1.70E+01,5.10E+01,Malaysia,"Chemor, Perak State",Af,N,F,0-20
+K,K-40,Sweet potato,Ipomoea batatas,Tubers,6.90E-01,2.80E+02,4.10E+02,Malaysia,"Chemor, Perak State",Af,N,F,0-20
+Ra,Ra-226,"Cassava, tapioca",Manihot esculenta,Roots,7.70E-01,1.00E+02,1.30E+02,Malaysia,"Lembah Beringin, Selangor State",Af,N,F,0-20
+Th,Th-232,"Cassava, tapioca",Manihot esculenta,Roots,1.70E+00,4.20E+01,2.50E+01,Malaysia,"Lembah Beringin, Selangor State",Af,N,F,0-20
+K,K-40,"Cassava, tapioca",Manihot esculenta,Roots,1.10E-01,5.60E+01,5.20E+02,Malaysia,"Lembah Beringin, Selangor State",Af,N,F,0-20
+Y,Y-88,"Cassava, tapioca",Manihot esculenta,Roots,6.10E-01,1.20E+01,1.90E+01,Malaysia,"Lembah Beringin, Selangor State",Af,N,F,0-20
+Ra,Ra-226,"Cassava, tapioca",Manihot esculenta,Roots,8.10E-01,8.70E+01,1.10E+02,Malaysia,"Lembah Beringin, Selangor State",Af,N,F,0-20
+Th,Th-232,"Cassava, tapioca",Manihot esculenta,Roots,4.70E-01,4.30E+01,9.10E+01,Malaysia,"Lembah Beringin, Selangor State",Af,N,F,0-20
+K,K-40,"Cassava, tapioca",Manihot esculenta,Roots,8.00E-01,8.00E+02,9.90E+02,Malaysia,"Lembah Beringin, Selangor State",Af,N,F,0-20
+Po,Po-210,Tulsi,Ocimum sanctum,Leaves,3.70E+00,6.40E+01,1.70E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Thimare,Centella asiatica,Leaves,1.60E+00,3.50E+01,2.10E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Ettovu,Clerodendrum viscosum,Leaves,2.90E+00,4.80E+01,1.60E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Daddala,Careya arborea,Leaves,2.50E+00,2.90E+01,1.10E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Sambrani,Plectranthus amboinicus,Leaves,1.90E+00,5.60E+01,2.90E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Arashina,Curcuma longa,Rhizomes,1.00E-01,3.30E+00,4.30E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Nachige mullu,Mimosa pudica,Whole plant,3.20E+00,1.50E+01,4.70E+00,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Adusoge,Justicia adhatoda,Leaves,9.00E-01,1.10E+01,1.20E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Haale,Alstonia scholaris,Bark,9.00E-01,1.40E+01,1.60E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Naga sampige,Mesua ferrea,Bark,6.00E-01,1.40E+01,2.30E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Enjeeru,Calycopteris floribunda,Leaves,1.20E+00,2.10E+01,1.70E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Po,Po-210,Kottemullu,Ziziphus rugosa,Bark,5.00E-01,9.70E+00,2.00E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Tulsi,Ocimum sanctum,Leaves,7.00E+00,4.10E+02,5.80E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Thimare,Centella asiatica,Leaves,2.20E+00,1.40E+02,6.30E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Ettovu,Clerodendrum viscosum,Leaves,4.60E+00,2.50E+02,5.50E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Daddala,Careya arborea,Leaves,2.60E+00,1.20E+02,4.60E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Sambrani,Plectranthus amboinicus,Leaves,3.70E+00,3.20E+02,8.70E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Arashina,Curcuma longa,Rhizomes,1.00E-01,1.20E+01,1.20E+02,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Nachige mullu,Mimosa pudica,Whole plant,1.50E+00,5.40E+01,3.60E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Adusoge,Justicia adhatoda,Leaves,7.00E-01,3.40E+01,4.60E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Haale,Alstonia scholaris,Bark,1.10E+00,5.30E+01,4.60E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Naga sampige,Mesua ferrea,Bark,6.00E-01,4.70E+01,7.20E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Enjeeru,Calycopteris floribunda,Leaves,1.00E+00,6.00E+01,5.90E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Pb,Pb-210,Kottemullu,Ziziphus rugosa,Bark,5.00E-01,3.10E+01,6.30E+01,India,"Dakshina Kannada District, Karnataka State",Am,N,F,0-15
+Ra,Ra-226,"Asian pigeonwings, butterfly pea",Clitoria ternatea,Flowers,9.00E-02,2.80E+00,3.20E+01,Thailand,Sukhothai,Aw,N,F,20-Oct
+Ra,Ra-226,Ylang-Ylang,Cananga odorata,Flowers,1.10E-01,3.10E+00,2.80E+01,Thailand,Nakhon Sawan,Aw,N,F,20-Oct
+Ra,Ra-226,Cassumunar ginger,Zingiber montanum,Rhizomes,1.70E-01,3.70E+00,2.10E+01,Thailand,Bangkok,Aw,N,F,20-Oct
+Ra,Ra-226,"Chinese ginger, Chinese keys, fingerroot",Boesenbergia rotunda,Rhizomes,1.20E-01,3.00E+00,2.60E+01,Thailand,Nakhon Nayok,Aw,N,F,20-Oct
+Ra,Ra-226,Yanang,Tiliacora triandra,Leaves,3.10E-01,8.50E+00,2.70E+01,Thailand,Suphanburi,Aw,N,F,20-Oct
+Ra,Ra-226,Green chiretta,Andrographis paniculata,Leaves,3.40E-01,7.50E+00,2.20E+01,Thailand,Nakhon Pathom,Aw,N,F,20-Oct
+K,K-40,"Asian pigeonwings, butterfly pea",Clitoria ternatea,Flowers,1.50E+00,6.30E+02,4.20E+02,Thailand,Sukhothai,Aw,N,F,20-Oct
+K,K-40,Ylang-Ylang,Cananga odorata,Flowers,1.50E+00,4.60E+02,3.90E+02,Thailand,Nakhon Sawan,Aw,N,F,20-Oct
+K,K-40,Cassumunar ginger,Zingiber montanum,Rhizomes,2.90E+00,3.40E+02,1.20E+02,Thailand,Bangkok,Aw,N,F,20-Oct
+K,K-40,"Chinese ginger, Chinese keys, fingerroot",Boesenbergia rotunda,Rhizomes,1.50E+00,3.90E+02,2.80E+02,Thailand,Nakhon Nayok,Aw,N,F,20-Oct
+K,K-40,Yanang,Tiliacora triandra,Leaves,2.60E+00,9.00E+02,3.50E+02,Thailand,Suphanburi,Aw,N,F,20-Oct
+K,K-40,Green chiretta,Andrographis paniculata,Leaves,2.80E+00,9.50E+02,3.40E+02,Thailand,Nakhon Pathom,Aw,N,F,20-Oct
+Ra,Ra-226,Red amaranthus,Amaranthus tricolor,Leaves,2.40E-01,6.00E+00,2.50E+01,Bangladesh,"Savar Upazila (S1), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Red amaranthus,Amaranthus tricolor,Leaves,5.60E-01,2.10E+01,3.70E+01,Bangladesh,"Savar Upazila (S1), Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Red amaranthus,Amaranthus tricolor,Leaves,2.60E+00,1.20E+03,4.80E+02,Bangladesh,"Savar Upazila (S1), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Elephant ears,Colocasia esculenta,Tubers,9.30E-01,1.90E+01,2.10E+01,Bangladesh,"Savar Upazila (S2), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Elephant ears,Colocasia esculenta,Tubers,3.50E-01,1.30E+01,3.70E+01,Bangladesh,"Savar Upazila (S2), Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Elephant ears,Colocasia esculenta,Tubers,3.70E+00,1.50E+03,4.10E+02,Bangladesh,"Savar Upazila (S2), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Bitter gourd,Momordica charantia,Fruits,8.20E-02,2.00E+00,2.50E+01,Bangladesh,"Savar Upazila (S3), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Bitter gourd,Momordica charantia,Fruits,1.50E-01,7.00E+00,4.30E+01,Bangladesh,"Savar Upazila (S3), Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Bitter gourd,Momordica charantia,Fruits,1.80E+00,7.10E+02,3.90E+02,Bangladesh,"Savar Upazila (S3), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Bind weed,Ipomoea aquatica,Leaves,4.80E-01,1.10E+01,2.30E+01,Bangladesh,"Savar Upazila (S4), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Bind weed,Ipomoea aquatica,Leaves,4.80E-01,2.20E+01,4.60E+01,Bangladesh,"Savar Upazila (S4), Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Bind weed,Ipomoea aquatica,Leaves,1.30E+00,5.00E+02,4.00E+02,Bangladesh,"Savar Upazila (S4), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Snake gourd,Trichosanthes anguina,Fruits,3.00E-01,8.00E+00,2.60E+01,Bangladesh,"Savar Upazila (S5), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Snake gourd,Trichosanthes anguina,Fruits,4.00E-01,1.60E+01,4.10E+01,Bangladesh,"Savar Upazila (S5), Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Snake gourd,Trichosanthes anguina,Fruits,1.60E+00,6.00E+02,3.70E+02,Bangladesh,"Savar Upazila (S5), Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Jute,Corchorus capsularis,Leaves,4.60E-01,1.30E+01,2.90E+01,Bangladesh,"Manikganj District (M1), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Jute,Corchorus capsularis,Leaves,8.10E-01,3.30E+01,4.10E+01,Bangladesh,"Manikganj District (M1), Dhaka Division",Aw,N,F,0-15
+K,K-40,Jute,Corchorus capsularis,Leaves,7.40E-01,3.20E+02,4.30E+02,Bangladesh,"Manikganj District (M1), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Green amaranthus,Amaranthus lividus,Leaves,3.40E-01,8.00E+00,2.20E+01,Bangladesh,"Manikganj District (M2), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Green amaranthus,Amaranthus lividus,Leaves,7.00E-01,2.90E+01,4.20E+01,Bangladesh,"Manikganj District (M2), Dhaka Division",Aw,N,F,0-15
+K,K-40,Green amaranthus,Amaranthus lividus,Leaves,1.80E+00,7.40E+02,4.10E+02,Bangladesh,"Manikganj District (M2), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Pumpkin,Cucurbita maxima,Fruits,1.60E-01,5.00E+00,3.00E+01,Bangladesh,"Manikganj District (M3), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Pumpkin,Cucurbita maxima,Fruits,6.10E-02,3.00E+00,4.30E+01,Bangladesh,"Manikganj District (M3), Dhaka Division",Aw,N,F,0-15
+K,K-40,Pumpkin,Cucurbita maxima,Fruits,1.50E+00,6.80E+02,4.50E+02,Bangladesh,"Manikganj District (M3), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Pumpkin,Cucurbita maxima,Leaves,1.90E-01,4.00E+00,2.30E+01,Bangladesh,"Manikganj District (M4), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Pumpkin,Cucurbita maxima,Leaves,1.20E-01,4.00E+00,3.40E+01,Bangladesh,"Manikganj District (M4), Dhaka Division",Aw,N,F,0-15
+K,K-40,Pumpkin,Cucurbita maxima,Leaves,1.90E+00,7.10E+02,3.70E+02,Bangladesh,"Manikganj District (M4), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Wax gourd,Benincasa hispida,Fruits,8.70E-02,2.00E+00,2.60E+01,Bangladesh,"Manikganj District (M5), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Wax gourd,Benincasa hispida,Fruits,4.20E-01,1.60E+01,3.90E+01,Bangladesh,"Manikganj District (M5), Dhaka Division",Aw,N,F,0-15
+K,K-40,Wax gourd,Benincasa hispida,Fruits,1.90E+00,7.00E+02,3.60E+02,Bangladesh,"Manikganj District (M5), Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Greater galangal,Alpinia galangal,Rhizomes,2.00E-03,2.00E-01,8.40E+01,Thailand,Chiang Mai Province (1),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Rhizomes,8.00E-03,1.10E+00,1.40E+02,Thailand,Chiang Mai Province (1),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Rhizomes,6.60E-01,7.70E+02,1.20E+03,Thailand,Chiang Mai Province (1),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Leaves,1.40E-02,1.20E+00,8.40E+01,Thailand,Chiang Mai Province (1),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Leaves,8.00E-03,1.10E+00,1.40E+02,Thailand,Chiang Mai Province (1),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Leaves,9.00E-01,1.00E+03,1.20E+03,Thailand,Chiang Mai Province (1),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Rhizomes,<0.002,<0.2,8.80E+01,Thailand,Chiang Mai Province (2),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Rhizomes,4.00E-03,6.00E-01,1.60E+02,Thailand,Chiang Mai Province (2),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Rhizomes,5.40E-01,6.00E+02,1.10E+03,Thailand,Chiang Mai Province (2),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Stems,1.10E-02,1.00E+00,8.80E+01,Thailand,Chiang Mai Province (2),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Stems,4.00E-03,7.00E-01,1.60E+02,Thailand,Chiang Mai Province (2),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Stems,9.50E-01,1.10E+03,1.10E+03,Thailand,Chiang Mai Province (2),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Leaves,<0.002,<0.2,8.80E+01,Thailand,Chiang Mai Province (2),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Leaves,<0.001,<0.1,1.60E+02,Thailand,Chiang Mai Province (2),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Leaves,5.60E-01,6.20E+02,1.10E+03,Thailand,Chiang Mai Province (2),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Rhizomes,5.00E-03,4.00E-01,7.50E+01,Thailand,Chiang Rai Province (1),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Rhizomes,6.00E-03,2.00E-01,2.70E+01,Thailand,Chiang Rai Province (1),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Rhizomes,3.50E+00,2.10E+02,5.80E+01,Thailand,Chiang Rai Province (1),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Stems,<0.002,<0.2,7.50E+01,Thailand,Chiang Rai Province (1),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Stems,1.60E-02,4.00E-01,2.70E+01,Thailand,Chiang Rai Province (1),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Stems,7.90E+00,4.60E+02,5.80E+01,Thailand,Chiang Rai Province (1),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Rhizomes,<0.002,<0.2,2.70E+01,Thailand,Chiang Rai Province (2),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Rhizomes,3.60E-02,1.50E+00,4.20E+01,Thailand,Chiang Rai Province (2),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Rhizomes,3.10E-01,2.90E+02,9.60E+02,Thailand,Chiang Rai Province (2),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Stems,<0.002,<0.2,2.70E+01,Thailand,Chiang Rai Province (2),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Stems,6.10E-02,2.60E+00,4.20E+01,Thailand,Chiang Rai Province (2),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Stems,2.60E-01,2.50E+02,9.60E+02,Thailand,Chiang Rai Province (2),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Leaves,7.30E-02,2.00E+00,2.70E+01,Thailand,Chiang Rai Province (2),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Leaves,1.00E-02,4.00E-01,4.20E+01,Thailand,Chiang Rai Province (2),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Leaves,2.90E-01,2.80E+02,9.60E+02,Thailand,Chiang Rai Province (2),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Stems,<0.002,<0.2,6.10E+01,Thailand,Chiang Rai Province (3),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Stems,<0.001,<0.1,6.50E+01,Thailand,Chiang Rai Province (3),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Stems,2.20E+00,1.10E+03,5.20E+02,Thailand,Chiang Rai Province (3),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Rhizomes,<0.002,<0.2,2.50E+01,Thailand,Lampang Province (1),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Rhizomes,2.00E-03,1.00E-01,3.90E+01,Thailand,Lampang Province (1),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Rhizomes,1.20E+00,6.20E+02,5.30E+02,Thailand,Lampang Province (1),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Stems,3.00E-02,8.00E-01,2.50E+01,Thailand,Lampang Province (1),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Stems,9.00E-03,4.00E-01,3.90E+01,Thailand,Lampang Province (1),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Stems,3.00E+00,1.60E+03,5.30E+02,Thailand,Lampang Province (1),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Leaves,<0.002,<0.2,2.50E+01,Thailand,Lampang Province (1),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Leaves,1.00E-02,4.00E-01,3.90E+01,Thailand,Lampang Province (1),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Leaves,4.00E+00,2.10E+03,5.30E+02,Thailand,Lampang Province (1),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Rhizomes,<0.002,<0.2,2.60E+01,Thailand,Lampang Province (2),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Rhizomes,4.00E-03,2.00E-01,4.60E+01,Thailand,Lampang Province (2),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Rhizomes,6.20E+00,6.10E+02,9.80E+01,Thailand,Lampang Province (2),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Rhizomes,<0.002,<0.2,4.40E+01,Thailand,Lampang Province (3),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Rhizomes,2.00E-03,2.00E-01,7.40E+01,Thailand,Lampang Province (3),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Rhizomes,1.10E+00,6.80E+02,6.10E+02,Thailand,Lampang Province (3),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Stems,<0.002,<0.2,4.40E+01,Thailand,Lampang Province (3),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Stems,3.30E-02,2.50E+00,7.40E+01,Thailand,Lampang Province (3),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Stems,3.70E+00,2.20E+03,6.10E+02,Thailand,Lampang Province (3),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Rhizomes,<0.002,<0.2,4.20E+01,Thailand,Lampang Province (4),Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Rhizomes,5.00E-03,3.00E-01,5.50E+01,Thailand,Lampang Province (4),Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Rhizomes,3.60E+00,5.50E+02,1.50E+02,Thailand,Lampang Province (4),Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Rhizomes,<0.002,<0.2,4.10E+01,Thailand,Phayao Province,Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Rhizomes,1.20E-02,6.00E-01,5.20E+01,Thailand,Phayao Province,Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Rhizomes,1.20E+00,3.70E+02,3.10E+02,Thailand,Phayao Province,Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Stems,<0.002,<0.2,4.10E+01,Thailand,Phayao Province,Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Stems,5.00E-03,3.00E-01,5.20E+01,Thailand,Phayao Province,Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Stems,1.40E+00,4.40E+02,3.10E+02,Thailand,Phayao Province,Aw,N,F,0-20
+Ra,Ra-226,Greater galangal,Alpinia galangal,Leaves,<0.002,<0.2,4.10E+01,Thailand,Phayao Province,Aw,N,F,0-20
+Th,Th-232,Greater galangal,Alpinia galangal,Leaves,5.60E-02,2.90E+00,5.20E+01,Thailand,Phayao Province,Aw,N,F,0-20
+K,K-40,Greater galangal,Alpinia galangal,Leaves,1.80E+00,5.40E+02,3.10E+02,Thailand,Phayao Province,Aw,N,F,0-20
+Ra,Ra-226,Banana,Musa paradisiaca,Leaves,1.60E-01,2.10E+00,1.30E+01,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Banana,Musa paradisiaca,Leaves,3.20E+00,7.30E+02,2.30E+02,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Banana,Musa paradisiaca,Leaves,6.30E-01,1.90E+00,3.00E+00,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Congress,Chromolaena odorata,Leaves,8.00E-02,1.10E+00,1.30E+01,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Congress,Chromolaena odorata,Leaves,2.60E+00,5.90E+02,2.30E+02,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Congress,Chromolaena odorata,Leaves,7.00E-01,2.10E+00,3.00E+00,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Congress,Chromolaena odorata,Leaves,1.90E-01,2.30E+00,1.20E+01,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Congress,Chromolaena odorata,Leaves,3.10E+00,5.70E+02,1.90E+02,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Congress,Chromolaena odorata,Leaves,5.80E-01,2.50E+00,4.30E+00,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Congress,Chromolaena odorata,Leaves,1.80E-01,2.20E+00,1.20E+01,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Congress,Chromolaena odorata,Leaves,3.80E+00,5.10E+02,1.40E+02,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Congress,Chromolaena odorata,Leaves,6.90E-01,2.90E+00,4.20E+00,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Sr,Sr-90,Congress,Chromolaena odorata,Leaves,1.60E+00,1.90E+00,1.20E+00,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Eakky,Calotropis gigantea,Leaves,1.70E-01,2.10E+00,1.30E+01,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Eakky,Calotropis gigantea,Leaves,3.00E+00,6.90E+02,2.30E+02,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Eakky,Calotropis gigantea,Leaves,6.70E-01,2.00E+00,3.00E+00,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Tikte,Cassia tora,Leaves,3.50E-01,4.40E+00,1.30E+01,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Tikte,Cassia tora,Leaves,1.70E+00,3.80E+02,2.30E+02,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Tikte,Cassia tora,Leaves,7.30E-01,2.20E+00,3.00E+00,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Champa,Michelia champaca,Leaves,2.80E-01,3.60E+00,1.30E+01,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Champa,Michelia champaca,Leaves,1.60E+00,3.60E+02,2.30E+02,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Champa,Michelia champaca,Leaves,6.30E-01,1.90E+00,3.00E+00,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Badam,Terminalia catappa,Leaves,6.00E-02,7.70E-01,1.20E+01,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Badam,Terminalia catappa,Leaves,1.30E+00,2.50E+02,1.90E+02,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Badam,Terminalia catappa,Leaves,2.10E-01,9.00E-01,3.00E+00,India,"Kaiga (A), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Cashew,Anacardium occidentale,Leaves,4.00E-02,4.70E-01,1.20E+01,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Cashew,Anacardium occidentale,Leaves,7.30E-01,1.40E+02,1.90E+02,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Cashew,Anacardium occidentale,Leaves,1.20E-01,5.00E-01,4.30E+00,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Cashew,Anacardium occidentale,Leaves,3.00E-02,3.60E-01,1.20E+01,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Cashew,Anacardium occidentale,Leaves,1.00E+00,1.40E+02,1.40E+02,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Cashew,Anacardium occidentale,Leaves,2.90E-01,1.20E+00,4.20E+00,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Jamun,Syzygium cumini,Leaves,8.00E-02,9.70E-01,1.20E+01,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Jamun,Syzygium cumini,Leaves,8.00E-01,1.50E+02,1.90E+02,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Jamun,Syzygium cumini,Leaves,1.20E-01,5.00E-02,4.30E+00,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Jamun,Syzygium cumini,Leaves,3.00E-02,3.50E-01,1.20E+01,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Jamun,Syzygium cumini,Leaves,8.50E-01,1.10E+02,1.40E+02,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Jamun,Syzygium cumini,Leaves,2.10E-01,9.00E-01,4.20E+00,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Sr,Sr-90,Jamun,Syzygium cumini,Leaves,5.70E-01,<1.2,1.20E+00,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Teak,Tectona grandis,Leaves,2.50E-01,3.10E+00,1.20E+01,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Teak,Tectona grandis,Leaves,2.00E+00,3.70E+02,1.90E+02,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Teak,Tectona grandis,Leaves,5.30E-01,2.30E+00,4.30E+00,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Teak,Tectona grandis,Leaves,1.20E-01,1.40E+00,1.20E+01,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Teak,Tectona grandis,Leaves,1.60E+00,2.20E+02,1.40E+02,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Teak,Tectona grandis,Leaves,4.30E-01,1.80E+00,4.20E+00,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Sr,Sr-90,Teak,Tectona grandis,Leaves,1.10E+00,1.30E+00,1.20E+00,India,"Kaiga (C), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Mango,Mangifera indica,Leaves,1.10E-01,1.30E+00,1.20E+01,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Mango,Mangifera indica,Leaves,9.70E-01,1.80E+02,1.90E+02,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Mango,Mangifera indica,Leaves,2.30E-01,1.00E+00,4.30E+00,India,"Kaiga (B), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,2.70E+00,2.70E+02,1.00E+02,India,"Experiment field (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,2.90E+00,2.60E+02,9.20E+01,India,"Experiment field (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,1.50E+00,1.30E+02,8.60E+01,India,"Experiment field (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,1.60E+00,1.70E+02,1.00E+02,India,"Experiment field (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,1.00E+00,1.10E+02,1.10E+02,India,"Hartuga (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,2.20E+00,1.30E+02,5.80E+01,India,"Hartuga (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,1.20E+00,2.20E+02,1.80E+02,India,"Hartuga (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,8.60E-01,9.60E+01,1.10E+02,India,"Hartuga (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,8.70E-01,1.10E+02,1.30E+02,India,"Kuchegar (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,1.40E+00,1.50E+02,1.00E+02,India,"Kuchegar (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,2.30E+00,1.40E+02,6.20E+01,India,"Kuchegar (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,7.10E-01,8.40E+01,1.20E+02,India,"Kuchegar (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,8.50E-01,1.40E+02,1.60E+02,India,"Virje (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,6.50E-01,1.50E+02,2.30E+02,India,"Virje (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,1.20E+00,1.70E+02,1.40E+02,India,"Virje (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Grains,1.10E+00,1.10E+02,9.30E+01,India,"Virje (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,5.80E+00,5.90E+02,1.00E+02,India,"Experiment field (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,2.00E+00,1.90E+02,9.20E+01,India,"Experiment field (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,1.00E+01,8.90E+02,8.60E+01,India,"Experiment field (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,7.90E+00,8.10E+02,1.00E+02,India,"Experiment field (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,1.50E+00,1.60E+02,1.10E+02,India,"Hartuga (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,3.70E+00,2.10E+02,5.80E+01,India,"Hartuga (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,4.90E+00,8.60E+02,1.80E+02,India,"Hartuga (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,5.30E+00,5.90E+02,1.10E+02,India,"Hartuga (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,2.90E+00,3.70E+02,1.30E+02,India,"Kuchegar (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,6.20E+00,6.40E+02,1.00E+02,India,"Kuchegar (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,8.00E+00,4.90E+02,6.20E+01,India,"Kuchegar (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,5.80E+00,6.70E+02,1.20E+02,India,"Kuchegar (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,2.50E+00,4.10E+02,1.60E+02,India,"Virje (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,1.60E+00,3.60E+02,2.30E+02,India,"Virje (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,3.70E+00,5.10E+02,1.40E+02,India,"Virje (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Straw,6.50E+00,6.10E+02,9.30E+01,India,"Virje (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,7.60E+00,7.70E+02,1.00E+02,India,"Experiment field (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,8.80E+00,8.10E+02,9.20E+01,India,"Experiment field (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,7.80E-01,6.70E+01,8.60E+01,India,"Experiment field (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,4.80E-01,4.90E+01,1.00E+02,India,"Experiment field (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,1.90E+00,2.10E+02,1.10E+02,India,"Hartuga (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,2.80E+00,1.60E+02,5.80E+01,India,"Hartuga (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,7.20E-01,1.30E+02,1.80E+02,India,"Hartuga (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,9.30E-01,1.00E+02,1.10E+02,India,"Hartuga (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,1.70E+00,2.20E+02,1.30E+02,India,"Kuchegar (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,1.30E+00,1.30E+02,1.00E+02,India,"Kuchegar (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,1.40E+00,8.90E+01,6.20E+01,India,"Kuchegar (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,6.40E-01,7.50E+01,1.20E+02,India,"Kuchegar (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,6.30E-01,1.00E+02,1.60E+02,India,"Virje (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,4.90E-01,1.10E+02,2.30E+02,India,"Virje (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,6.10E-01,8.40E+01,1.40E+02,India,"Virje (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+K,K-40,Rice,Oryza sativa,Roots,9.80E-01,9.10E+01,9.30E+01,India,"Virje (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,7.80E-02,3.20E+00,4.10E+01,India,"Experiment field (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,1.20E-01,4.40E+00,3.70E+01,India,"Experiment field (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,3.20E-01,3.90E+00,1.20E+01,India,"Experiment field (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,<1.4E-2,<0.9,6.50E+01,India,"Experiment field (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,1.10E-01,4.10E+00,3.70E+01,India,"Hartuga (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,1.80E-01,8.80E+00,5.00E+01,India,"Hartuga (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,6.30E-02,3.20E+00,5.00E+01,India,"Hartuga (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,1.20E-01,9.10E+00,7.60E+01,India,"Hartuga (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,5.80E-02,3.50E+00,6.00E+01,India,"Kuchegar (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,2.30E-02,1.30E+00,5.60E+01,India,"Kuchegar (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,2.80E-01,2.90E+00,1.00E+01,India,"Kuchegar (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,8.10E-01,1.10E+01,1.30E+01,India,"Kuchegar (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,<1.6E-2,<0.9,5.30E+01,India,"Virje (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,6.90E-02,2.80E+00,4.10E+01,India,"Virje (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,<1.2E-2,<0.9,7.10E+01,India,"Virje (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Grains,6.50E-02,2.90E+00,4.50E+01,India,"Virje (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,3.60E-02,1.50E+00,4.10E+01,India,"Experiment field (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,5.10E-02,1.90E+00,3.70E+01,India,"Experiment field (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,4.80E-02,6.00E-01,1.20E+01,India,"Experiment field (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,4.60E-02,3.00E+00,6.50E+01,India,"Experiment field (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,5.10E-02,1.90E+00,3.70E+01,India,"Hartuga (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,4.60E-02,2.30E+00,5.00E+01,India,"Hartuga (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,8.00E-03,4.00E-01,5.00E+01,India,"Hartuga (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,2.70E-02,2.10E+00,7.60E+01,India,"Hartuga (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,2.60E-02,1.60E+00,6.00E+01,India,"Kuchegar (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,3.20E-02,1.80E+00,5.60E+01,India,"Kuchegar (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,3.50E-01,3.60E+00,1.00E+01,India,"Kuchegar (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,6.70E-02,9.00E-01,1.30E+01,India,"Kuchegar (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,3.90E-02,2.10E+00,5.30E+01,India,"Virje (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,3.90E-02,1.60E+00,4.10E+01,India,"Virje (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,1.20E-02,9.00E-01,7.10E+01,India,"Virje (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Straw,3.80E-02,1.70E+00,4.50E+01,India,"Virje (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,4.10E-01,1.70E+01,4.10E+01,India,"Experiment field (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,4.50E-01,1.70E+01,3.70E+01,India,"Experiment field (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,3.30E-01,4.10E+00,1.20E+01,India,"Experiment field (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,1.70E-01,1.10E+01,6.50E+01,India,"Experiment field (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,1.60E+00,5.70E+01,3.70E+01,India,"Hartuga (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,3.80E-01,1.90E+01,5.00E+01,India,"Hartuga (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,2.80E-01,1.40E+01,5.00E+01,India,"Hartuga (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,2.80E-01,2.10E+01,7.60E+01,India,"Hartuga (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,3.00E-01,1.80E+01,6.00E+01,India,"Kuchegar (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,3.10E-01,1.70E+01,5.60E+01,India,"Kuchegar (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,7.80E-01,8.10E+00,1.00E+01,India,"Kuchegar (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,9.20E-01,1.20E+01,1.30E+01,India,"Kuchegar (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,6.90E-01,3.70E+01,5.30E+01,India,"Virje (1), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,4.20E-01,1.70E+01,4.10E+01,India,"Virje (2), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,2.70E-01,1.90E+01,7.10E+01,India,"Virje (3), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Pb,Pb-210,Rice,Oryza sativa,Roots,4.80E-01,2.10E+01,4.50E+01,India,"Virje (4), Uttara Kannada District, Karnataka State",Am,N,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,2.00E-01,9.00E-01,4.50E+00,India,"Experiment field (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,1.50E-01,1.10E+00,7.50E+00,India,"Experiment field (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,3.00E-01,2.10E+00,6.90E+00,India,"Experiment field (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,1.90E-01,1.10E+00,5.60E+00,India,"Experiment field (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,6.60E-02,8.00E-01,1.20E+01,India,"Hartuga (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,2.90E-01,1.40E+00,4.70E+00,India,"Hartuga (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,3.00E-01,1.90E+00,6.30E+00,India,"Hartuga (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,2.60E-01,1.20E+00,4.60E+00,India,"Hartuga (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,1.00E-01,8.00E-01,8.00E+00,India,"Kuchegar (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,1.70E-01,1.50E+00,8.90E+00,India,"Kuchegar (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,3.10E-01,9.00E-01,2.90E+00,India,"Kuchegar (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,3.40E-01,1.40E+00,4.10E+00,India,"Kuchegar (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,1.10E-01,8.00E-01,7.20E+00,India,"Virje (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,2.20E-01,6.10E+01,5.50E+00,India,"Virje (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,1.90E-01,2.20E+00,1.20E+01,India,"Virje (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Grains,2.30E-01,1.90E+00,8.40E+00,India,"Virje (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,4.90E-01,2.20E+00,4.50E+00,India,"Experiment field (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,5.20E-01,9.40E+01,7.50E+00,India,"Experiment field (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,5.70E-02,4.00E-01,6.90E+00,India,"Experiment field (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,5.30E-02,3.00E-01,5.60E+00,India,"Experiment field (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,1.20E-01,1.50E+00,1.20E+01,India,"Hartuga (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,4.00E-01,1.20E+01,4.70E+00,India,"Hartuga (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,4.90E-01,3.10E+00,6.30E+00,India,"Hartuga (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,<2.1E-2,<0.1,4.60E+00,India,"Hartuga (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,8.70E-02,7.00E-01,8.00E+00,India,"Kuchegar (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,2.10E-01,1.20E+01,8.90E+00,India,"Kuchegar (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,2.10E-01,6.00E-01,2.90E+00,India,"Kuchegar (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,4.60E-01,1.90E+00,4.10E+00,India,"Kuchegar (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,1.30E-01,9.00E-01,7.20E+00,India,"Virje (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,2.20E-01,1.10E+01,5.50E+00,India,"Virje (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,6.70E-02,8.00E-01,1.20E+01,India,"Virje (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Straw,1.40E-01,1.20E+00,8.40E+00,India,"Virje (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,4.40E-02,2.00E-01,4.50E+00,India,"Experiment field (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,2.60E-02,2.00E-01,7.50E+00,India,"Experiment field (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,4.80E-01,3.30E+00,6.90E+00,India,"Experiment field (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,4.10E-01,2.30E+00,5.60E+00,India,"Experiment field (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,1.90E-01,2.40E+00,1.20E+01,India,"Hartuga (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,2.30E-01,1.10E+00,4.70E+00,India,"Hartuga (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,7.10E-01,4.50E+00,6.30E+00,India,"Hartuga (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,6.50E-01,3.00E+00,4.60E+00,India,"Hartuga (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,3.10E-01,2.50E+00,8.00E+00,India,"Kuchegar (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,7.50E-01,6.70E+00,8.90E+00,India,"Kuchegar (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,1.40E-01,4.00E-01,2.90E+00,India,"Kuchegar (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,9.50E-01,3.90E+00,4.10E+00,India,"Kuchegar (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,2.60E-01,1.90E+00,7.20E+00,India,"Virje (1), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,5.80E-01,1.30E+01,5.50E+00,India,"Virje (2), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,6.00E-01,7.10E+00,1.20E+01,India,"Virje (3), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Cs,Cs-137,Rice,Oryza sativa,Roots,5.90E-01,5.00E+00,8.40E+00,India,"Virje (4), Uttara Kannada District, Karnataka State",Am,NU,F,0-20
+Ra,Ra-226,Banpu,Terminalia paniculata,Bark,1.40E-01,4.80E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Banpu,Terminalia paniculata,Leaves,9.00E-02,3.00E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Daddala,Careya arborea,Bark,1.30E-01,4.50E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Daddala,Careya arborea,Leaves,1.10E-01,3.80E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Kanagilu,Dillenia pentagyna,Leaves,6.00E-02,2.10E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Ittovu,Clerodendrum viscosum,Stems,1.70E-01,5.90E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Ittovu,Clerodendrum viscosum,Leaves,1.30E-01,4.60E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Marvo,Microcos paniculata,Stems,1.60E-01,5.70E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Marvo,Microcos paniculata,Leaves,1.00E-01,3.60E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Enjir,Calycopteris floribunda,Stems,1.00E-01,3.40E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Hunase huli,Tamarindus indica,Leaves,1.60E-01,5.70E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Mango,Mangifera indica,Leaves,1.00E-01,3.60E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Teak,Tectona grandis,Bark,2.70E-01,9.70E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Teak,Tectona grandis,Leaves,1.20E-01,4.10E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Ashwatha,Ficus religiosa,Leaves,3.60E-01,1.30E+01,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Grass,Themeda triandra,Whole plant,1.90E-01,6.70E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Ra,Ra-226,Orchid,Cymbidium aloifolium,Whole plant,8.00E-02,3.00E+00,3.50E+01,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Banpu,Terminalia paniculata,Bark,1.40E+00,2.00E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Banpu,Terminalia paniculata,Leaves,8.30E-01,1.20E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Daddala,Careya arborea,Bark,2.10E+00,3.00E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Daddala,Careya arborea,Leaves,1.30E+00,1.90E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Kanagilu,Dillenia pentagyna,Leaves,4.90E-01,6.90E+01,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Ittovu,Clerodendrum viscosum,Stems,2.30E+00,3.20E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Ittovu,Clerodendrum viscosum,Leaves,1.30E+00,1.90E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Marvo,Microcos paniculata,Stems,2.20E+00,3.10E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Marvo,Microcos paniculata,Leaves,1.50E+00,2.20E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Enjir,Calycopteris floribunda,Stems,1.40E+00,1.90E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Hunase huli,Tamarindus indica,Leaves,1.20E+00,1.70E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Hunase huli,Tamarindus indica,Leaves,7.00E-01,1.00E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Mango,Mangifera indica,Leaves,9.00E-01,1.30E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Teak,Tectona grandis,Bark,1.50E+00,2.10E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Teak,Tectona grandis,Leaves,1.00E+00,1.40E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Ashwatha,Ficus religiosa,Leaves,3.70E+00,5.30E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Bamboo,Bambusa arundinacea,Leaves,1.70E+00,2.40E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Grass,Cyrtococcum oxyphyllum,Whole plant,2.60E+00,3.60E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Grass,Themeda triandra,Whole plant,8.70E-01,1.20E+02,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+K,K-40,Orchid,Cymbidium aloifolium,Whole plant,2.10E-01,3.00E+01,1.40E+02,India,"Uttara Kannada District, Karnataka State",Am,N,F,0-5
+Cs,Cs-137,Sorghum,Sorghum bicolor,Seeds,1.30E+01,1.10E+04,8.50E+02,Marshall Islands,Bikini Island (1A),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Seeds,1.80E+01,2.40E+04,1.30E+03,Marshall Islands,Bikini Island (1D),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Seeds,3.50E+01,1.80E+04,5.10E+02,Marshall Islands,Bikini Island (1H),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Seeds,3.70E+01,4.40E+04,1.20E+03,Marshall Islands,Bikini Island (1J),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Seeds,5.70E+01,1.60E+04,2.80E+02,Marshall Islands,Bikini Island (2B),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Seeds,6.80E+01,2.60E+04,3.80E+02,Marshall Islands,Bikini Island (2C),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Seeds,7.10E+01,3.00E+04,4.20E+02,Marshall Islands,Bikini Island (2I),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Seeds,1.00E+01,8.00E+03,8.10E+02,Marshall Islands,Bikini Island (2L),Af,NU,F,0-40
+Cs,Cs-137,"Chinese cabbage, won bok",Brassica pekinensis,Leaves,7.60E+01,2.00E+05,2.60E+03,Marshall Islands,Bikini Island (1C),Af,NU,F,0-20
+Cs,Cs-137,"Chinese cabbage, won bok",Brassica pekinensis,Leaves,1.90E+02,2.10E+05,1.10E+03,Marshall Islands,Bikini Island (1E),Af,NU,F,0-20
+Cs,Cs-137,"Chinese cabbage, won bok",Brassica pekinensis,Leaves,8.50E+01,2.30E+05,2.70E+03,Marshall Islands,Bikini Island (1I),Af,NU,F,0-20
+Cs,Cs-137,"Chinese cabbage, won bok",Brassica pekinensis,Leaves,1.10E+02,1.80E+05,1.70E+03,Marshall Islands,Bikini Island (1L),Af,NU,F,0-20
+Cs,Cs-137,"Chinese cabbage, won bok",Brassica pekinensis,Leaves,8.20E+01,9.00E+04,1.10E+03,Marshall Islands,Bikini Island (2A),Af,NU,F,0-20
+Cs,Cs-137,"Chinese cabbage, won bok",Brassica pekinensis,Leaves,2.50E+02,2.20E+05,8.80E+02,Marshall Islands,Bikini Island (2D),Af,NU,F,0-20
+Cs,Cs-137,"Chinese cabbage, won bok",Brassica pekinensis,Leaves,4.70E+01,6.60E+04,1.40E+03,Marshall Islands,Bikini Island (2G),Af,NU,F,0-20
+Cs,Cs-137,"Chinese cabbage, won bok",Brassica pekinensis,Leaves,6.30E+01,1.10E+05,1.80E+03,Marshall Islands,Bikini Island (2K),Af,NU,F,0-20
+Cs,Cs-137,Cabbage (kk cross),Brassica oleracea capitata,Leaves,4.90E+01,6.80E+04,1.40E+03,Marshall Islands,Bikini Island (1B),Af,NU,F,0-20
+Cs,Cs-137,Cabbage (kk cross),Brassica oleracea capitata,Leaves,4.80E+01,9.60E+04,2.00E+03,Marshall Islands,Bikini Island (1F),Af,NU,F,0-20
+Cs,Cs-137,Cabbage (kk cross),Brassica oleracea capitata,Leaves,4.50E+01,4.90E+04,1.10E+03,Marshall Islands,Bikini Island (1G),Af,NU,F,0-20
+Cs,Cs-137,Cabbage (kk cross),Brassica oleracea capitata,Leaves,5.30E+01,1.40E+05,2.60E+03,Marshall Islands,Bikini Island (1K),Af,NU,F,0-20
+Cs,Cs-137,Cabbage (kk cross),Brassica oleracea capitata,Leaves,9.30E+01,1.50E+05,1.60E+03,Marshall Islands,Bikini Island (2E),Af,NU,F,0-20
+Cs,Cs-137,Cabbage (kk cross),Brassica oleracea capitata,Leaves,2.70E+01,7.40E+04,2.70E+03,Marshall Islands,Bikini Island (2F),Af,NU,F,0-20
+Cs,Cs-137,Cabbage (kk cross),Brassica oleracea capitata,Leaves,6.80E+01,8.90E+04,1.30E+03,Marshall Islands,Bikini Island (2H),Af,NU,F,0-20
+Cs,Cs-137,Cabbage (kk cross),Brassica oleracea capitata,Leaves,6.40E+01,8.30E+04,1.30E+03,Marshall Islands,Bikini Island (2J),Af,NU,F,0-20
+Cs,Cs-137,Corn,Zea mays,Ears,4.40E+00,3.70E+03,8.50E+02,Marshall Islands,Bikini Island (1A),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,6.20E+00,8.10E+03,1.30E+03,Marshall Islands,Bikini Island (1D),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,8.80E+00,4.50E+03,5.10E+02,Marshall Islands,Bikini Island (1H),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,4.20E+01,5.00E+04,1.20E+03,Marshall Islands,Bikini Island (1J),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,6.60E+01,2.50E+04,3.80E+02,Marshall Islands,Bikini Island (2C),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,1.10E+01,4.60E+03,4.20E+02,Marshall Islands,Bikini Island (2I),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,1.70E+01,1.40E+04,8.10E+02,Marshall Islands,Bikini Island (2L),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,2.70E+01,1.30E+04,4.70E+02,Marshall Islands,Bikini Island (3D),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,1.60E+01,7.60E+03,4.90E+02,Marshall Islands,Bikini Island (3E),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,1.70E+01,8.50E+03,5.00E+02,Marshall Islands,Bikini Island (3G),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,1.80E+01,1.80E+04,9.60E+02,Marshall Islands,Bikini Island (3I),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,2.30E+01,1.40E+04,6.10E+02,Marshall Islands,Bikini Island (4A),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,1.90E+01,1.90E+04,1.00E+03,Marshall Islands,Bikini Island (4D),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,2.40E+01,1.20E+04,5.10E+02,Marshall Islands,Bikini Island (4F),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Ears,1.20E+01,8.10E+03,7.00E+02,Marshall Islands,Bikini Island (4I),Af,NU,F,0-40
+Cs,Cs-137,Mizuna,Brassica campestris,Leaves,6.30E+01,5.40E+04,8.60E+02,Marshall Islands,Bikini Island (3B),Af,NU,F,0-20
+Cs,Cs-137,Mizuna,Brassica campestris,Leaves,8.10E+01,5.20E+04,6.40E+02,Marshall Islands,Bikini Island (3C),Af,NU,F,0-20
+Cs,Cs-137,Mizuna,Brassica campestris,Leaves,5.20E+01,7.30E+04,1.40E+03,Marshall Islands,Bikini Island (3F),Af,NU,F,0-20
+Cs,Cs-137,Mizuna,Brassica campestris,Leaves,3.70E+01,5.80E+04,1.60E+03,Marshall Islands,Bikini Island (4B),Af,NU,F,0-20
+Cs,Cs-137,Mizuna,Brassica campestris,Leaves,2.70E+01,5.90E+04,2.20E+03,Marshall Islands,Bikini Island (4E),Af,NU,F,0-20
+Cs,Cs-137,Mizuna,Brassica campestris,Leaves,6.30E+01,6.90E+04,1.10E+03,Marshall Islands,Bikini Island (4G),Af,NU,F,0-20
+Cs,Cs-137,Mizuna,Brassica campestris,Leaves,2.20E+01,6.20E+04,2.90E+03,Marshall Islands,Bikini Island (4J),Af,NU,F,0-20
+Cs,Cs-137,Sorghum,Sorghum bicolor,Stovers,1.80E+01,1.50E+04,8.50E+02,Marshall Islands,Bikini Island (1A),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Stovers,3.80E+01,5.00E+04,1.30E+03,Marshall Islands,Bikini Island (1D),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Stovers,4.50E+01,2.30E+04,5.10E+02,Marshall Islands,Bikini Island (1H),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Stovers,4.80E+01,5.70E+04,1.20E+03,Marshall Islands,Bikini Island (1J),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Stovers,5.00E+01,1.40E+04,2.80E+02,Marshall Islands,Bikini Island (2B),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Stovers,5.80E+01,2.20E+04,3.80E+02,Marshall Islands,Bikini Island (2C),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Stovers,7.90E+01,3.30E+04,4.20E+02,Marshall Islands,Bikini Island (2I),Af,NU,F,0-40
+Cs,Cs-137,Sorghum,Sorghum bicolor,Stovers,1.60E+01,1.30E+04,8.10E+02,Marshall Islands,Bikini Island (2L),Af,NU,F,0-40
+Cs,Cs-137,"Leaf mustard, kai choy",Brassica juncea,Leaves,1.60E+01,4.10E+04,2.60E+03,Marshall Islands,Bikini Island (1C),Af,NU,F,0-20
+Cs,Cs-137,"Leaf mustard, kai choy",Brassica juncea,Leaves,2.90E+01,3.20E+04,1.10E+03,Marshall Islands,Bikini Island (1E),Af,NU,F,0-20
+Cs,Cs-137,"Leaf mustard, kai choy",Brassica juncea,Leaves,3.60E+01,6.10E+04,2.70E+03,Marshall Islands,Bikini Island (1I),Af,NU,F,0-20
+Cs,Cs-137,"Leaf mustard, kai choy",Brassica juncea,Leaves,2.20E+01,3.70E+04,1.70E+03,Marshall Islands,Bikini Island (1L),Af,NU,F,0-20
+Cs,Cs-137,"Leaf mustard, kai choy",Brassica juncea,Leaves,2.50E+01,2.80E+04,1.10E+03,Marshall Islands,Bikini Island (2A),Af,NU,F,0-20
+Cs,Cs-137,"Leaf mustard, kai choy",Brassica juncea,Leaves,5.70E+01,5.10E+04,8.80E+02,Marshall Islands,Bikini Island (2D),Af,NU,F,0-20
+Cs,Cs-137,"Leaf mustard, kai choy",Brassica juncea,Leaves,1.70E+01,2.40E+04,1.40E+03,Marshall Islands,Bikini Island (2G),Af,NU,F,0-20
+Cs,Cs-137,"Leaf mustard, kai choy",Brassica juncea,Leaves,1.60E+01,2.90E+04,1.80E+03,Marshall Islands,Bikini Island (2K),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,1.90E+01,2.90E+04,1.50E+03,Marshall Islands,Bikini Island (1B),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,1.50E+01,4.10E+04,2.70E+03,Marshall Islands,Bikini Island (2F),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,2.20E+01,2.90E+04,1.30E+03,Marshall Islands,Bikini Island (2H),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,2.70E+01,3.50E+04,1.30E+03,Marshall Islands,Bikini Island (2J),Af,NU,F,0-20
+Cs,Cs-137,Corn,Zea mays,Stovers,1.00E+01,8.60E+03,8.50E+02,Marshall Islands,Bikini Island (1A),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,1.20E+01,1.50E+04,1.30E+03,Marshall Islands,Bikini Island (1D),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,1.90E+01,9.70E+03,5.10E+02,Marshall Islands,Bikini Island (1H),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,3.70E+01,4.40E+04,1.20E+03,Marshall Islands,Bikini Island (1J),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,5.00E+01,1.90E+04,3.80E+02,Marshall Islands,Bikini Island (2C),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,2.10E+01,8.80E+03,4.20E+02,Marshall Islands,Bikini Island (2I),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,1.20E+01,1.00E+04,8.10E+02,Marshall Islands,Bikini Island (2L),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,3.80E+01,1.80E+04,4.70E+02,Marshall Islands,Bikini Island (3D),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,2.50E+01,1.20E+04,4.90E+02,Marshall Islands,Bikini Island (3E),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,2.60E+01,1.30E+04,5.00E+02,Marshall Islands,Bikini Island (3G),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,1.60E+01,1.50E+04,9.60E+02,Marshall Islands,Bikini Island (3I),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,3.70E+01,2.30E+04,6.10E+02,Marshall Islands,Bikini Island (4A),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,2.40E+01,2.40E+04,1.00E+03,Marshall Islands,Bikini Island (4D),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,2.00E+01,1.00E+04,5.10E+02,Marshall Islands,Bikini Island (4F),Af,NU,F,0-40
+Cs,Cs-137,Corn,Zea mays,Stovers,2.00E+01,1.40E+04,7.00E+02,Marshall Islands,Bikini Island (4I),Af,NU,F,0-40
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,2.50E+01,2.80E+04,1.10E+03,Marshall Islands,Bikini Island (3A),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,1.80E+01,1.80E+04,1.00E+03,Marshall Islands,Bikini Island (3H),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,2.90E+01,3.60E+04,3.60E+03,Marshall Islands,Bikini Island (3K),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,2.30E+01,5.30E+04,2.30E+03,Marshall Islands,Bikini Island (3L),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,1.20E+01,2.10E+04,1.80E+03,Marshall Islands,Bikini Island (4C),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,1.40E+01,2.10E+04,1.50E+03,Marshall Islands,Bikini Island (4H),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,2.00E+01,3.20E+04,1.60E+03,Marshall Islands,Bikini Island (4K),Af,NU,F,0-20
+Cs,Cs-137,Amaranth,Amaranth tricolor,Leaves,2.50E+01,3.80E+04,1.50E+03,Marshall Islands,Bikini Island (4L),Af,NU,F,0-20
+Cs,Cs-137,Bhindi,Abelmoschus esculentus,Fruits,7.40E-03,2.30E-02,3.10E+00,India,"Tarapur (S14), Palghar District, Maharashtra State",Am,NU,F,0-20
+Cs,Cs-137,Bhindi,Abelmoschus esculentus,Fruits,9.60E-03,9.00E-03,9.70E-01,India,"Tarapur (S3), Palghar District, Maharashtra State",Am,NU,F,0-20
+Cs,Cs-137,Gavar,Cyamopsis tetragonoloba,Beans,8.40E-03,2.60E-02,3.10E+00,India,"Tarapur (S20), Palghar District, Maharashtra State",Am,NU,F,0-20
+Cs,Cs-137,Karela,Momordica charantia,Fruits,7.10E-03,2.00E-02,2.80E+00,India,"Tarapur (S11), Palghar District, Maharashtra State",Am,NU,F,0-20
+Cs,Cs-137,Tendli,Coccinia grandis,Fruits,8.30E-03,1.20E-02,1.40E+00,India,"Tarapur (S10), Palghar District, Maharashtra State",Am,NU,F,0-20
+Cs,Cs-137,Bhopala,Cucurbita,Fruits,2.80E-03,9.00E-03,3.10E+00,India,"Tarapur (S2), Palghar District, Maharashtra State",Am,NU,F,0-20
+K,K-40,Bhindi,Abelmoschus esculentus,Fruits,4.00E-01,8.20E+01,2.00E+02,India,"Tarapur (S2), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Bhindi,Abelmoschus esculentus,Fruits,3.70E-01,6.60E+01,1.80E+02,India,"Tarapur (S14), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Bhindi,Abelmoschus esculentus,Fruits,4.30E-01,8.00E+01,1.90E+02,India,"Tarapur (S2), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Bhindi,Abelmoschus esculentus,Fruits,3.30E-01,8.30E+01,2.50E+02,India,"Tarapur (S3), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Dudhi,Lagenaria siceraria,Fruits,3.50E-01,6.10E+01,1.80E+02,India,"Tarapur (S6), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Dudhi,Lagenaria siceraria,Fruits,2.20E-01,4.10E+01,1.90E+02,India,"Tarapur (S2), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Gavar,Cyamopsis tetragonoloba,Beans,5.30E-01,9.40E+01,1.80E+02,India,"Tarapur (S20), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Chavali,Vigna unguiculata,Peas,3.10E-01,7.10E+01,2.30E+02,India,"Tarapur (S6), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Lal mat,Amaranthus cruentus,Leaves,1.10E+00,1.90E+02,1.80E+02,India,"Tarapur (S7), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Mat bhaji,Amaranthus viridis,Leaves,1.40E+00,2.50E+02,1.80E+02,India,"Tarapur (S7), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Brinjal,Solanum melongena,Fruits,6.50E-01,1.10E+02,1.80E+02,India,"Tarapur (S23), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Galka,Trichosanthes anguina,Fruits,3.90E-01,6.80E+01,1.80E+02,India,"Tarapur (S23), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Galka,Trichosanthes anguina,Fruits,5.80E-01,1.30E+02,2.20E+02,India,"Tarapur (S6), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Kakdi,Cucumis sativus,Fruits,2.20E-01,3.90E+01,1.80E+02,India,"Tarapur (S23), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Karela,Momordica charantia,Fruits,6.40E-01,1.30E+02,2.00E+02,India,"Tarapur (S11), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Onion,Allium cepa,Bulbs,4.20E-01,7.00E+01,1.70E+02,India,"Tarapur (S11), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Tendli,Coccinia grandis,Fruits,3.40E-01,5.00E+01,1.50E+02,India,"Tarapur (S10), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Tomato,Lycopersicon esculentum,Fruits,4.30E-01,7.10E+01,1.70E+02,India,"Tarapur (S13), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Bhopala,Cucurbita,Fruits,4.40E-01,8.70E+01,2.00E+02,India,"Tarapur (S2), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Shirala,Luffa acutangula,Fruits,2.20E-01,3.60E+01,1.70E+02,India,"Tarapur (S18), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Brinjal,Solanum melongena,Fruits,4.50E-01,7.90E+01,1.80E+02,India,"Tarapur (S11), Palghar District, Maharashtra State",Am,N,F,0-20
+K,K-40,Waterleaf,Talinum triangulare,Leaves,2.40E-01,6.00E+01,9.30E+01,Nigeria,"Fashina (5), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Waterleaf,Talinum triangulare,Leaves,3.60E-01,1.20E+02,3.50E+02,Nigeria,"Fashina (6), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Cassava,Manihot esculentun,Roots,4.80E-01,7.80E+01,1.90E+02,Nigeria,"Fashina (1), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Cassava,Manihot esculentun,Roots,5.30E-01,9.90E+01,2.00E+02,Nigeria,"Fashina (2), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Cassava (garri),Manihot esculentun,Roots,4.40E-01,8.80E+01,4.30E+02,Nigeria,"Fashina (10), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Jute,Corchorus sp.,Leaves,5.70E-01,5.30E+01,1.40E+02,Nigeria,"Fashina (7), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Jute,Corchorus sp.,Leaves,3.50E-01,1.20E+02,5.40E+02,Nigeria,"Fashina (8), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,African spinach,Amaranthus hybridus,Leaves,4.90E-01,7.00E+01,2.50E+02,Nigeria,"Fashina (3), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,African spinach,Amaranthus hybridus,Leaves,2.10E-01,1.10E+02,3.40E+02,Nigeria,"Fashina (4), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Maize (yellow),Zea mays,Grains,2.00E-01,8.70E+01,1.60E+02,Nigeria,"Fashina (9), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Waterleaf,Talinum triangulare,Leaves,1.80E-01,4.70E+01,2.00E+02,Nigeria,"Opa (21), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Maize (white),Zea mays,Grains,2.60E-01,5.20E+01,2.60E+02,Nigeria,"Opa (19), Ile-Ife, Osun State",Aw,N,F,0-30
+K,K-40,Jute,Corchorus sp.,Leaves,3.30E-01,6.40E+01,1.90E+02,Nigeria,"Opa (20), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Waterleaf,Talinum triangulare,Leaves,5.90E-01,9.80E+00,3.20E+01,Nigeria,"Fashina (5), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Waterleaf,Talinum triangulare,Leaves,8.40E-01,1.70E+01,4.10E+01,Nigeria,"Fashina (6), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Cassava,Manihot esculentun,Roots,8.30E-01,1.80E+01,2.00E+01,Nigeria,"Fashina (1), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Cassava,Manihot esculentun,Roots,6.70E-01,1.30E+01,6.30E+00,Nigeria,"Fashina (2), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Cassava (garri),Manihot esculentun,Roots,8.20E-01,5.10E+00,2.00E+01,Nigeria,"Fashina (10), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Jute,Corchorus sp.,Leaves,2.60E-01,8.20E+00,2.20E+01,Nigeria,"Fashina (7), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Jute,Corchorus sp.,Leaves,5.10E-01,2.10E+01,3.30E+01,Nigeria,"Fashina (8), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,African spinach,Amaranthus hybridus,Leaves,6.80E-01,1.50E+01,1.70E+01,Nigeria,"Fashina (3), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,African spinach,Amaranthus hybridus,Leaves,4.90E-01,1.60E+01,2.00E+01,Nigeria,"Fashina (4), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Maize (yellow),Zea mays,Grains,4.40E-01,9.00E+00,2.10E+01,Nigeria,"Fashina (9), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Waterleaf,Talinum triangulare,Leaves,4.80E-01,9.40E+00,1.80E+01,Nigeria,"Opa (21), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Maize (white),Zea mays,Grains,3.30E-01,6.00E+00,2.00E+01,Nigeria,"Opa (19), Ile-Ife, Osun State",Aw,N,F,0-30
+Th,Th-232,Jute,Corchorus sp.,Leaves,1.70E-01,3.40E+00,2.00E+01,Nigeria,"Opa (20), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Waterleaf,Talinum triangulare,Leaves,7.20E-01,9.80E+00,2.00E+01,Nigeria,"Fashina (5), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Waterleaf,Talinum triangulare,Leaves,4.00E-01,6.80E+00,1.50E+01,Nigeria,"Fashina (6), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Cassava,Manihot esculentun,Roots,7.90E-01,7.20E+00,1.00E+01,Nigeria,"Fashina (1), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Cassava,Manihot esculentun,Roots,7.80E-01,8.00E+00,1.20E+01,Nigeria,"Fashina (2), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Cassava (garri),Manihot esculentun,Roots,8.60E-01,1.00E+01,7.30E+00,Nigeria,"Fashina (10), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Jute,Corchorus sp.,Leaves,6.50E-01,1.30E+01,9.10E+00,Nigeria,"Fashina (7), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Jute,Corchorus sp.,Leaves,7.80E-01,1.10E+01,8.10E+00,Nigeria,"Fashina (8), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,African spinach,Amaranthus hybridus,Leaves,6.30E-01,5.70E+00,1.40E+01,Nigeria,"Fashina (3), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,African spinach,Amaranthus hybridus,Leaves,9.70E-01,7.90E+00,1.70E+01,Nigeria,"Fashina (4), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Maize (yellow),Zea mays,Grains,7.20E-01,5.30E+00,9.20E+00,Nigeria,"Fashina (9), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Waterleaf,Talinum triangulare,Leaves,1.30E+00,1.00E+01,1.20E+01,Nigeria,"Opa (21), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Maize (white),Zea mays,Grains,8.00E-01,9.40E+00,8.10E+00,Nigeria,"Opa (19), Ile-Ife, Osun State",Aw,N,F,0-30
+U,U-238,Cassava,Manihot esculenta,Roots,1.20E+00,3.00E+01,2.50E+01,Nigeria,"Ikpokiri village, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,1.10E+00,2.60E+01,2.40E+01,Nigeria,"Onne town, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,7.70E-01,1.40E+01,1.80E+01,Nigeria,"Wakama village, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,7.50E-01,1.40E+01,1.90E+01,Nigeria,"Ogu village, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,1.20E+00,2.00E+01,1.70E+01,Nigeria,"Satellite town, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,1.30E+00,6.90E+00,5.40E+00,Nigeria,"Unitech Onne campus, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,6.10E-01,1.00E+01,1.70E+01,Nigeria,"Sime village, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cassava,Manihot esculenta,Roots,1.30E+00,3.30E+01,2.40E+01,Nigeria,"Brali village, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Yam,Dioscorea rotundata,Tubers,2.90E-01,4.80E+00,1.60E+01,Nigeria,"Ikpokiri village, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Yam,Dioscorea rotundata,Tubers,3.80E-01,8.10E+00,2.20E+01,Nigeria,"Onne town, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Yam,Dioscorea rotundata,Tubers,3.60E-01,6.80E+00,1.90E+01,Nigeria,"Satellite town, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Yam,Dioscorea rotundata,Tubers,2.40E-01,6.40E+00,2.70E+01,Nigeria,"Wakama village, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cocoyam,Caladium bicolor,Tubers,3.80E-01,6.10E+00,1.60E+01,Nigeria,"Ikpokiri village, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cocoyam,Caladium bicolor,Tubers,2.90E-01,7.30E+00,2.50E+01,Nigeria,"Onne town, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cocoyam,Caladium bicolor,Tubers,2.70E-01,6.70E+00,1.60E+01,Nigeria,"Eteo village, Onne, Rivers State",Am,N,F,0-20
+U,U-238,Cocoyam,Caladium bicolor,Tubers,5.90E-01,9.70E+00,1.00E+01,Nigeria,"Ogu village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,7.70E-01,1.80E+01,2.40E+01,Nigeria,"Ikpokiri village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,3.90E-01,9.20E+00,2.30E+01,Nigeria,"Onne town, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,7.50E-01,1.20E+01,1.70E+01,Nigeria,"Wakama village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,6.60E-01,6.50E+00,9.80E+00,Nigeria,"Ogu village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,8.10E-01,1.30E+01,1.60E+01,Nigeria,"Satellite town, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,7.40E-01,6.70E+00,9.10E+00,Nigeria,"Unitech Onne campus, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,4.20E-01,7.70E+00,1.90E+01,Nigeria,"Sime village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cassava,Manihot esculenta,Roots,1.10E+00,1.80E+01,1.60E+01,Nigeria,"Brali village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Yam,Dioscorea rotundata,Tubers,5.00E-01,8.20E+00,1.70E+01,Nigeria,"Ikpokiri village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Yam,Dioscorea rotundata,Tubers,3.80E-01,9.00E+00,2.40E+01,Nigeria,"Onne town, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Yam,Dioscorea rotundata,Tubers,3.10E-01,7.80E+00,2.50E+01,Nigeria,"Satellite town, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Yam,Dioscorea rotundata,Tubers,4.90E-01,8.60E+00,1.70E+01,Nigeria,"Wakama village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cocoyam,Caladium bicolor,Tubers,2.30E-01,5.60E+00,2.50E+01,Nigeria,"Ikpokiri village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cocoyam,Caladium bicolor,Tubers,3.50E-01,8.20E+00,2.40E+01,Nigeria,"Onne town, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cocoyam,Caladium bicolor,Tubers,4.40E-01,6.90E+00,1.60E+01,Nigeria,"Eteo village, Onne, Rivers State",Am,N,F,0-20
+Th,Th-232,Cocoyam,Caladium bicolor,Tubers,9.00E-01,7.50E+00,8.30E+00,Nigeria,"Ogu village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,8.30E-01,2.10E+02,2.50E+02,Nigeria,"Ikpokiri village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,8.80E-01,2.40E+02,2.70E+02,Nigeria,"Onne town, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,9.60E-01,4.20E+02,4.40E+02,Nigeria,"Wakama village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,1.10E+00,6.40E+02,6.00E+02,Nigeria,"Ogu village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,1.00E+00,4.80E+02,4.70E+02,Nigeria,"Satellite town, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,1.60E+00,3.60E+02,2.30E+02,Nigeria,"Unitech Onne campus, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,1.80E+00,3.80E+02,2.10E+02,Nigeria,"Sime village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cassava,Manihot esculenta,Roots,1.10E+00,6.90E+02,6.20E+02,Nigeria,"Brali village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Yam,Dioscorea rotundata,Tubers,9.80E-01,2.20E+02,2.30E+02,Nigeria,"Ikpokiri village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Yam,Dioscorea rotundata,Tubers,7.50E-01,2.40E+02,3.20E+02,Nigeria,"Onne town, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Yam,Dioscorea rotundata,Tubers,9.00E-01,2.10E+02,2.30E+02,Nigeria,"Satellite town, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Yam,Dioscorea rotundata,Tubers,1.20E+00,2.30E+02,2.10E+02,Nigeria,"Wakama village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cocoyam,Caladium bicolor,Tubers,7.60E-01,2.50E+02,3.20E+02,Nigeria,"Ikpokiri village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cocoyam,Caladium bicolor,Tubers,1.10E+00,2.40E+02,1.50E+02,Nigeria,"Onne town, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cocoyam,Caladium bicolor,Tubers,9.40E-01,1.40E+02,2.20E+02,Nigeria,"Eteo village, Onne, Rivers State",Am,N,F,0-20
+K,K-40,Cocoyam,Caladium bicolor,Tubers,9.50E-01,1.60E+02,1.60E+02,Nigeria,"Ogu village, Onne, Rivers State",Am,N,F,0-20
+Cs,Cs-137,Jackfruit,Artocarpus integra,Fruits,<0.07,<0.05,7.50E-01,Brazil,"Angra dos Reis, Rio de Janeiro State",Af,NU,F,0-10
+Cs,Cs-137,Pineapple,Ananas comosus,Fruits,<0.09,<0.06,6.60E-01,Brazil,"Canaa, Espirito Santo State",Aw,NU,F,0-10
+Cs,Cs-137,Mango,Mangifera indica,Fruits,2.50E-01,2.10E-01,8.40E-01,Brazil,"Caxias, Rio de Janeiro State",Af,NU,F,0-10
+Cs,Cs-137,Cassava,Manihot esculenta,Roots,6.20E+00,5.20E+00,8.30E-01,Brazil,"Ilha de Itamaraca, Pernambuco State",Am,NU,F,0-10
+Cs,Cs-137,Coconut,Cocos nucifera,Fruits,4.80E-01,3.60E-01,7.50E-01,Brazil,"Ilha de Itamaraca, Pernambuco State",Am,NU,F,0-10
+Cs,Cs-137,Guava,Psidium guajava,Fruits,<0.13,<0.08,6.00E-01,Brazil,"Ilha de Itamaraca, Pernambuco State",Am,NU,F,0-10
+Cs,Cs-137,Mango,Mangifera indica,Fruits,<0.11,<0.08,7.50E-01,Brazil,"Ilha de Itamaraca, Pernambuco State",Am,NU,F,0-10
+Cs,Cs-137,Sweet potato,Ipomoea batatas,Tubers,1.30E+00,2.20E+00,1.70E+00,Brazil,"Ilha de Itamaraca, Pernambuco State",Am,NU,F,0-10
+Cs,Cs-137,Banana,Musa paradisiaca,Fruits,<0.04,<0.06,1.60E+00,Brazil,"Iranduba, Amazonas State",Af,NU,F,0-10
+Cs,Cs-137,Passionfruit,Passiflora actinia,Fruits,<0.17,<0.09,5.20E-01,Brazil,"Iranduba, Amazonas State",Af,NU,F,0-10
+Cs,Cs-137,Sweet potato,Ipomoea batatas,Tubers,<0.04,<0.06,1.60E+00,Brazil,"Iranduba, Amazonas State",Af,NU,F,0-10
+Cs,Cs-137,Coconut,Cocos nucifera,Fruits,<0.03,<0.06,2.00E+00,Brazil,"Itaguai, Rio de Janeiro State",Af,NU,F,0-10
+Cs,Cs-137,Papaya,Carica papaya,Fruits,<0.01,<0.04,2.90E+00,Brazil,"Itapemirim, Espirito Santo State",Aw,NU,F,0-10
+Cs,Cs-137,Bean,Phaseolus vulgaris,Beans,<0.02,<0.06,2.80E+00,Brazil,"Monte Alegre, Para State",Am,NU,F,0-10
+Cs,Cs-137,Cabbage,Brassica oleracea,Leaves,<0.02,<0.05,2.10E+00,Brazil,"Monte Alegre, Para State",Am,NU,F,0-10
+Cs,Cs-137,Cassava,Manihot esculenta,Roots,<0.01,<0.06,5.20E+00,Brazil,"Monte Alegre, Para State",Am,NU,F,0-10
+Cs,Cs-137,Coconut,Cocos nucifera,Fruits,<0.15,<0.06,4.00E-01,Brazil,"Monte Alegre, Para State",Am,NU,F,0-10
+Cs,Cs-137,Cupuacu ,Theobroma grandiflorum,Fruits,5.20E+00,3.50E+00,6.70E-01,Brazil,"Monte Alegre, Para State",Am,NU,F,0-10
+Cs,Cs-137,Lemon,Citrus aurantifolia,Fruits,7.70E-01,7.60E-01,9.90E-01,Brazil,"Monte Alegre, Para State",Am,NU,F,0-10
+Cs,Cs-137,Orange,Citrus aurantium,Fruits,7.70E-01,7.60E-01,9.90E-01,Brazil,"Monte Alegre, Para State",Am,NU,F,0-10
+Cs,Cs-137,Papaya,Carica papaya,Fruits,<0.05,<0.05,1.00E+00,Brazil,"Monte Alegre, Para State",Am,NU,F,0-10
+Cs,Cs-137,Rice,Oryza sativa,Grains,<0.05,<0.06,1.20E+00,Brazil,"Monte Alegre, Para State",Am,NU,F,0-10
+Cs,Cs-137,Banana,Musa paradisiaca,Fruits,<0.01,<0.06,4.30E+00,Brazil,"Praia de Grumari, Rio de Janeiro State",Af,NU,F,0-10
+Cs,Cs-137,Carrot,Daucus carota,Roots,<0.06,<0.05,8.40E-01,Brazil,"Praia de Grumari, Rio de Janeiro State",Af,NU,F,0-10
+Cs,Cs-137,Cassava,Manihot esculenta,Roots,<0.02,<0.09,4.30E+00,Brazil,"Praia de Grumari, Rio de Janeiro State",Af,NU,F,0-10
+Cs,Cs-137,Yam,Colocasia esculenta,Tubers,<0.11,<0.09,8.00E-01,Brazil,"Praia de Grumari, Rio de Janeiro State",Af,NU,F,0-10
+Cs,Cs-137,Sugarcane,Saccharum officinarum,Stems,2.70E+00,8.00E-01,3.00E-01,Brazil,"Rio de Janeiro, Rio de Janeiro State",Af,NU,F,0-10
+Cs,Cs-137,Buriti,Mauritia vinifera,Fruits,3.10E+00,1.80E+00,5.90E-01,Brazil,"Santarem, Para State",Am,NU,F,0-10
+Cs,Cs-137,Lemon,Citrus aurantifolia,Fruits,7.40E-01,1.20E+00,1.60E+00,Brazil,"Santarem, Para State",Am,NU,F,0-10
+Cs,Cs-137,Cucumber,Cucumis sativus,Fruits,<0.04,<0.05,1.40E+00,Brazil,"Santo Antonio de Padua, Rio de Janeiro State",Aw,NU,F,0-10
+Cs,Cs-137,Eggplant,Solanum melongena,Fruits,<0.16,<0.04,2.50E-01,Brazil,"Santo Antonio de Padua, Rio de Janeiro State",Aw,NU,F,0-10
+Cs,Cs-137,Guava,Psidium guajava,Fruits,<0.02,<0.05,2.90E+00,Brazil,"Santo Antonio de Padua, Rio de Janeiro State",Aw,NU,F,0-10
+Cs,Cs-137,Jilo,Solanum gilo,Fruits,<0.07,<0.04,5.90E-01,Brazil,"Santo Antonio de Padua, Rio de Janeiro State",Aw,NU,F,0-10
+Cs,Cs-137,Okra,Abelmoschus esculentus,Fruits,<0.31,<0.04,<0.13,Brazil,"Santo Antonio de Padua, Rio de Janeiro State",Aw,NU,F,0-10
+Cs,Cs-137,Passionfruit,Passiflora actinia,Fruits,<0.11,<0.06,3.50E-01,Brazil,"Santo Antonio de Padua, Rio de Janeiro State",Aw,NU,F,0-10
+Cs,Cs-137,Squash,Cucurbita pepo,Fruits,<0.03,<0.04,1.40E+00,Brazil,"Santo Antonio de Padua, Rio de Janeiro State",Aw,NU,F,0-10
+K,K-40,Papaya,Carica papaya,Fruits,6.80E+00,1.30E+03,1.90E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+K,K-40,Papaya,Carica papaya,Fruits,8.80E+00,1.10E+03,1.20E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+K,K-40,Papaya,Carica papaya,Fruits,1.40E+01,1.60E+03,1.20E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+K,K-40,Papaya,Carica papaya,Fruits,1.70E+01,1.90E+03,1.20E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+K,K-40,Papaya,Carica papaya,Fruits,2.00E+01,1.90E+03,7.80E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+K,K-40,Papaya,Carica papaya,Fruits,2.20E+01,2.00E+03,8.70E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+K,K-40,Papaya,Carica papaya,Fruits,1.40E+01,1.70E+03,1.20E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+K,K-40,Papaya,Carica papaya,Fruits,8.40E+00,1.00E+03,1.20E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+K,K-40,Papaya,Carica papaya,Fruits,1.30E+01,1.50E+03,1.10E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+K,K-40,Papaya,Carica papaya,Fruits,1.90E+01,2.30E+03,1.20E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,1.30E+00,4.40E+01,3.10E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,1.40E+00,1.10E+02,8.10E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,2.30E+00,6.30E+01,2.80E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,2.90E-01,9.20E+01,4.80E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,1.50E+00,1.20E+02,8.10E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,9.20E-01,8.70E+01,9.80E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,4.70E-01,5.00E+01,1.20E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,4.00E-01,5.00E+01,1.80E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,4.70E-01,7.70E+01,2.40E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Papaya,Carica papaya,Fruits,3.60E-01,6.60E+01,2.60E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,1.60E+00,1.40E+02,3.80E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,1.20E+00,1.30E+02,1.20E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,3.10E+00,1.20E+02,4.00E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,2.90E-01,1.10E+02,6.60E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,8.20E-01,1.10E+02,1.50E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,6.40E-01,9.00E+01,1.60E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,3.60E-01,5.90E+01,2.10E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,2.60E-01,4.00E+01,2.80E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,3.30E-01,8.50E+01,3.60E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Th,Th-232,Papaya,Carica papaya,Fruits,3.30E-01,8.10E+01,4.00E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,8.20E-01,2.00E+01,2.50E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,1.00E+00,7.00E+01,7.20E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,1.30E+00,2.70E+01,2.00E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,2.20E-01,4.00E+01,3.70E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,1.70E+00,1.10E+02,6.30E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,6.40E-01,3.50E+01,7.00E+01,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,3.60E-01,2.90E+01,1.00E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,4.00E-01,4.20E+01,1.50E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,6.10E-01,7.70E+01,1.70E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+U,U-238,Papaya,Carica papaya,Fruits,4.30E-01,6.10E+01,2.10E+02,Bangladesh,"Teknaf (Area VI), Cox's Bazar District, Chittagong Division",Am,N,F,15-May
+Ra,Ra-226,Pointed gourd,Trichosanthes dioica,Fruits,9.00E-02,3.60E+00,4.20E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Carrot,Daucus carota,Roots,9.00E-02,4.60E+00,4.80E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Papaya,Carica papaya,Fruits,3.00E-02,2.30E+00,6.50E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Banana (green),Musa acuminata,Fruits,8.00E-02,3.80E+00,4.90E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Radish,Raphanus sativus,Roots,6.00E-02,3.40E+00,5.80E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Brinjal,Solanum melongena,Fruits,5.00E-02,3.20E+00,5.90E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Bitter gourd,Momordica charantia,Fruits,4.00E-02,2.00E+00,4.90E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Cauliflower,Brassica oleracea botrytis,Heads,7.00E-02,3.90E+00,6.00E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Potato,Solanum tuberosum,Tubers,1.00E-01,4.20E+00,4.40E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-226,Okra,Abelmoschus esculentus,Fruits,6.00E-02,2.60E+00,4.60E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Pointed gourd,Trichosanthes dioica,Fruits,1.60E-01,1.20E+01,7.40E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Carrot,Daucus carota,Roots,1.70E-01,1.30E+01,7.80E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Papaya,Carica papaya,Fruits,1.80E-01,1.60E+01,8.80E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Banana (green),Musa acuminata,Fruits,3.20E-01,2.30E+01,7.10E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Radish,Raphanus sativus,Roots,1.20E-01,1.20E+01,9.90E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Brinjal,Solanum melongena,Fruits,1.80E-01,1.20E+01,6.80E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Bitter gourd,Momordica charantia,Fruits,1.90E-01,1.10E+01,5.70E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Cauliflower,Brassica oleracea botrytis,Heads,1.20E-01,1.30E+01,1.00E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Potato,Solanum tuberosum,Tubers,1.50E-01,1.20E+01,8.10E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+Ra,Ra-228,Okra,Abelmoschus esculentus,Fruits,1.80E-01,9.40E+00,5.20E+01,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Pointed gourd,Trichosanthes dioica,Fruits,2.80E-01,2.60E+02,9.30E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Carrot,Daucus carota,Roots,4.10E-01,3.80E+02,9.10E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Papaya,Carica papaya,Fruits,7.20E-01,5.40E+02,7.40E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Banana (green),Musa acuminata,Fruits,3.40E-01,3.40E+02,1.00E+03,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Radish,Raphanus sativus,Roots,2.80E-01,2.50E+02,9.10E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Brinjal,Solanum melongena,Fruits,2.60E-01,2.40E+02,9.30E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Bitter gourd,Momordica charantia,Fruits,2.40E-01,2.10E+02,8.70E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Cauliflower,Brassica oleracea botrytis,Heads,5.20E-01,4.20E+02,8.00E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Potato,Solanum tuberosum,Tubers,4.70E-01,4.30E+02,9.30E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+K,K-40,Okra,Abelmoschus esculentus,Fruits,2.60E-01,2.30E+02,8.70E+02,Bangladesh,"Savar Upazila, Dhaka District, Dhaka Division",Aw,N,F,0-15
+U,U-238,Cassava,Manihot esculenta,Roots,6.20E-01,1.00E+02,1.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Cassava,Manihot esculenta,Leaves,1.50E+00,2.40E+02,1.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Cocoyam,Xanthosoma sagittifolium,Tubers,1.20E+00,1.90E+02,1.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Groundnut,Arachis hypogaea,Nuts,1.00E-02,2.00E+00,1.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Plantain,Musa sp.,Fruits,6.00E-03,1.00E+00,1.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Cassava,Manihot esculenta,Roots,2.70E+00,2.90E+02,1.10E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Cassava,Manihot esculenta,Leaves,3.10E-01,3.30E+01,1.10E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Cocoyam,Xanthosoma sagittifolium,Tubers,1.60E-01,1.70E+01,1.10E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Groundnut,Arachis hypogaea,Nuts,1.00E-02,1.00E+00,1.10E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Plantain,Musa sp.,Fruits,1.00E-02,1.00E+00,1.10E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Cassava,Manihot esculenta,Roots,3.40E-01,3.90E+01,1.10E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Cassava,Manihot esculenta,Leaves,4.00E-01,4.60E+01,1.10E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Cocoyam,Xanthosoma sagittifolium,Tubers,3.30E-01,3.80E+01,1.10E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Groundnut,Arachis hypogaea,Nuts,1.50E+00,1.70E+02,1.10E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+U,U-238,Plantain,Musa sp.,Fruits,2.00E-02,2.00E+00,1.10E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Cassava,Manihot esculenta,Roots,2.40E-01,1.10E+02,4.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Cassava,Manihot esculenta,Leaves,1.50E+00,7.00E+02,4.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Cocoyam,Xanthosoma sagittifolium,Tubers,2.50E-01,1.20E+02,4.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Groundnut,Arachis hypogaea,Nuts,2.00E-03,1.00E+00,4.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Plantain,Musa sp.,Fruits,6.00E-03,3.00E+00,4.70E+02,Cameroon,"Ngombas, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Cassava,Manihot esculenta,Roots,2.40E-01,9.10E+01,3.80E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Cassava,Manihot esculenta,Leaves,1.40E-01,5.40E+01,3.80E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Cocoyam,Xanthosoma sagittifolium,Tubers,4.00E-02,1.40E+01,3.80E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Groundnut,Arachis hypogaea,Nuts,3.00E-03,1.00E+00,3.80E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Plantain,Musa sp.,Fruits,3.00E-03,1.00E+00,3.80E+02,Cameroon,"Awanda, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Cassava,Manihot esculenta,Roots,7.50E-01,2.40E+02,3.20E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Cassava,Manihot esculenta,Leaves,1.30E+00,4.10E+02,3.20E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Cocoyam,Xanthosoma sagittifolium,Tubers,3.10E-01,9.90E+01,3.20E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Groundnut,Arachis hypogaea,Nuts,1.60E-01,5.10E+01,3.20E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+Th,Th-232,Plantain,Musa sp.,Fruits,2.30E-01,7.40E+01,3.20E+02,Cameroon,"Bikoue, Akongo-Lolodorf",Am,N,F,0-5
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,2.60E-01,8.20E+00,3.10E+01,Bangladesh,"Satkhira Sadar, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,1.70E-01,6.70E+00,3.90E+01,Bangladesh,"Satkhira Sadar, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,1.40E-01,7.00E+00,4.70E+01,Bangladesh,"Debhata, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,3.80E-01,1.20E+01,3.20E+01,Bangladesh,"Debhata, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,1.80E-01,5.60E+00,3.20E+01,Bangladesh,"Patkelghata, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,8.00E-02,4.00E+00,4.80E+01,Bangladesh,"Patkelghata, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,1.80E-01,4.60E+00,2.60E+01,Bangladesh,"Shyamnagar, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,2.10E-01,9.20E+00,4.30E+01,Bangladesh,"Shyamnagar, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,2.00E-01,6.20E+00,3.00E+01,Bangladesh,"Kalaroa, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Red amaranth,Amaranthus gangeticus,Leaves,1.80E-01,5.10E+00,2.80E+01,Bangladesh,"Kalaroa, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,3.00E-01,1.80E+01,5.90E+01,Bangladesh,"Satkhira Sadar, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,2.20E-01,1.20E+01,5.50E+01,Bangladesh,"Satkhira Sadar, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,2.70E-01,1.40E+01,5.10E+01,Bangladesh,"Debhata, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,3.30E-01,1.70E+01,5.20E+01,Bangladesh,"Debhata, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,5.00E-01,2.40E+01,4.70E+01,Bangladesh,"Patkelghata, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,2.30E-01,1.20E+01,4.90E+01,Bangladesh,"Patkelghata, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,3.40E-01,2.00E+01,6.10E+01,Bangladesh,"Shyamnagar, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,1.40E-01,9.00E+00,6.30E+01,Bangladesh,"Shyamnagar, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,2.50E-01,1.30E+01,5.00E+01,Bangladesh,"Kalaroa, Satkhira District, Khulna Division",Aw,N,F,10-May
+Th,Th-232,Red amaranth,Amaranthus gangeticus,Leaves,1.90E-01,1.00E+01,5.30E+01,Bangladesh,"Kalaroa, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,1.90E+00,1.50E+03,7.80E+02,Bangladesh,"Satkhira Sadar, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,1.70E+00,1.10E+03,6.80E+02,Bangladesh,"Satkhira Sadar, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,2.40E+00,1.30E+03,5.30E+02,Bangladesh,"Debhata, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,1.90E+00,1.20E+03,6.10E+02,Bangladesh,"Debhata, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,3.30E+00,1.40E+03,4.10E+02,Bangladesh,"Patkelghata, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,2.40E+00,1.20E+03,5.10E+02,Bangladesh,"Patkelghata, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,2.30E+00,1.40E+03,6.10E+02,Bangladesh,"Shyamnagar, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,2.30E+00,1.30E+03,5.80E+02,Bangladesh,"Shyamnagar, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,2.20E+00,1.30E+03,5.80E+02,Bangladesh,"Kalaroa, Satkhira District, Khulna Division",Aw,N,F,10-May
+K,K-40,Red amaranth,Amaranthus gangeticus,Leaves,2.40E+00,1.30E+03,5.20E+02,Bangladesh,"Kalaroa, Satkhira District, Khulna Division",Aw,N,F,10-May
+Ra,Ra-226,Cabbage,Brassica oleracea,Roots,3.60E-02,1.40E+00,3.80E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Ra,Ra-226,Cabbage,Brassica oleracea,Stems,3.60E-02,1.40E+00,3.80E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Ra,Ra-226,Cabbage,Brassica oleracea,Leaves,3.50E-02,1.40E+00,3.80E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Ra,Ra-226,Maize,Zea mays,Roots,9.80E-03,2.90E-01,3.00E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Ra,Ra-226,Maize,Zea mays,Pods,8.50E-03,2.50E-01,3.00E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Ra,Ra-226,Maize,Zea mays,Leaves,9.10E-03,2.70E-01,3.00E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Th,Th-232,Cabbage,Brassica oleracea,Roots,3.60E-02,1.30E+00,3.70E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Th,Th-232,Cabbage,Brassica oleracea,Stems,3.40E-02,1.30E+00,3.70E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Th,Th-232,Cabbage,Brassica oleracea,Leaves,3.60E-02,1.30E+00,3.70E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Th,Th-232,Maize,Zea mays,Roots,1.10E-02,3.10E-01,2.90E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Th,Th-232,Maize,Zea mays,Pods,9.70E-03,2.80E-01,2.90E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+Th,Th-232,Maize,Zea mays,Leaves,1.00E-02,2.90E-01,2.90E+01,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+K,K-40,Cabbage,Brassica oleracea,Roots,4.20E-01,1.50E+02,3.50E+02,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+K,K-40,Cabbage,Brassica oleracea,Stems,3.90E-01,1.40E+02,3.50E+02,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+K,K-40,Cabbage,Brassica oleracea,Leaves,4.20E-01,1.50E+02,3.50E+02,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+K,K-40,Maize,Zea mays,Roots,8.10E-02,3.90E+01,4.90E+02,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+K,K-40,Maize,Zea mays,Pods,7.70E-02,3.70E+01,4.90E+02,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30
+K,K-40,Maize,Zea mays,Leaves,7.80E-02,3.80E+01,4.90E+02,Tanzania,"Namtumbo District, Ruvuma Region",Aw,N,F,0-30

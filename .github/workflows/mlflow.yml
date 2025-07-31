@@ -19,5 +19,5 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
       - name: Build and push Docker image
         run: |
-          docker build -t mvansh/cr_predictor .
-          docker push mvansh/cr_predictor
+          docker build -t mvansh000/cr_predictor .
+          docker push mvansh000/cr_predictor

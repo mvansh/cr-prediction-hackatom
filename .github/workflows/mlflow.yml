@@ -1,0 +1,14 @@
+name: MLflow Tracking
+on: [push]
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - run: pip install -r requirements.txt
+      - run: mlflow server --host 0.0.0.0 --port 5000 & sleep 5
+      - run: python predict_cr_with_xgboost.py

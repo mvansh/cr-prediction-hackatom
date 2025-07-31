@@ -1,4 +1,4 @@
-name: MLflow Tracking
+name: MLflow Tracking and CI/CD
 on: [push]
 jobs:
   train:
@@ -9,8 +9,11 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - run: pip install -r requirements.txt
-      - run: python predict_cr_with_xgboost.py
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run MLflow tracking
+        run: |
+          mlflow experiments run . -e python predict_cr_with_xgboost.py --backend local --artifact-location ./mlruns
       - name: Log in to Docker Hub
         uses: docker/login-action@v2
         with:
@@ -18,5 +21,5 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
       - name: Build and push Docker image
         run: |
-          docker build -t mvansh000/cr_predictor . 
-          docker push mvansh000/cr_predictor       
+          docker build -t mvansh000/cr_predictor .
+          docker push mvansh000/cr_predictor
